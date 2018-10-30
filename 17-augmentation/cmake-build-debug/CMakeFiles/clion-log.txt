@@ -1,0 +1,4 @@
+"/Users/joost/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/joost/Projects/udacity/sdce/term2/CarND-lesson7-unscented-kalman-filters/17-augmentation
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/joost/Projects/udacity/sdce/term2/CarND-lesson7-unscented-kalman-filters/17-augmentation/cmake-build-debug
