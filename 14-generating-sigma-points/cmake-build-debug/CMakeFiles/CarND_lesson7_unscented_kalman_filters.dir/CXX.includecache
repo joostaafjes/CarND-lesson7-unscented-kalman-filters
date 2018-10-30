@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/joost/Projects/udacity/sdce/term2/CarND-lesson7-unscented-kalman-filters/14-generating-sigma-points/main.cpp
+iostream
+-
+Eigen/Dense
+-
+vector
+-
+ukf.h
+/Users/joost/Projects/udacity/sdce/term2/CarND-lesson7-unscented-kalman-filters/14-generating-sigma-points/ukf.h
+
+/Users/joost/Projects/udacity/sdce/term2/CarND-lesson7-unscented-kalman-filters/14-generating-sigma-points/ukf.cpp
+iostream
+-
+ukf.h
+/Users/joost/Projects/udacity/sdce/term2/CarND-lesson7-unscented-kalman-filters/14-generating-sigma-points/ukf.h
+
+/Users/joost/Projects/udacity/sdce/term2/CarND-lesson7-unscented-kalman-filters/14-generating-sigma-points/ukf.h
+Eigen/Dense
+-
+vector
+-
+
