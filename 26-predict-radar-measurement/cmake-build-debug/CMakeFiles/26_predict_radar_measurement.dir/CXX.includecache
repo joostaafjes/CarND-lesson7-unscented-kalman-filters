@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/joost/Projects/udacity/sdce/term2/CarND-lesson7-unscented-kalman-filters/26-predict-radar-measurement/ukf.cpp
+iostream
+-
+ukf.h
+/Users/joost/Projects/udacity/sdce/term2/CarND-lesson7-unscented-kalman-filters/26-predict-radar-measurement/ukf.h
+
+/Users/joost/Projects/udacity/sdce/term2/CarND-lesson7-unscented-kalman-filters/26-predict-radar-measurement/ukf.h
+Eigen/Dense
+-
+vector
+-
+
